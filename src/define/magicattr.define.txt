@@ -1,0 +1,101 @@
+AttributeId	M« t¶
+28	S¸t th­¬ng nhá nhÊt
+29	S¸t th­¬ng lín nhÊt
+30	NĞ tr¸nh
+31	§é bÒn
+32	Søc m¹nh
+33	Th©n ph¸p
+34	Sinh khİ
+35	Néi c«ng
+36	§¼ng cÊp
+37	Thuéc tİnh ngò hµnh (tõ 0 ®Õn 4)
+38	"Giíi tİnh (1: N÷, 0: Nam)"
+39	Ph¸I (0 ®Õn 9)
+40	T¨ng s¸t th­¬ng %
+41	T¨ng nĞ tr¸nh %
+42	Gi¶m thiÓu yªu cÇu %
+43	Kh«ng thÓ ph¸ huû
+46	yªu cÇu trïng sinh
+47	tµi phó binh gi¸p
+48	"Khi bŞ c«ng kİch xa, gi¶m s¸t th­¬ng néi c«ng kÎ ®Şch %"
+49	L¨ng ba vi bé
+50	"Khi néi c«ng ®Çy, t¨ng kü n¨ng c«ng kİch %"
+51	"Xung quanh mçi …, trõ  % tØ lÖ ho¸ gi¶I s¸t th­¬ng"
+52	"Khi bŞ c«ng kİch gÇn, gi¶m s¸t th­¬ng néi c«ng kÎ ®Şch %"
+53	TØ lÖ t¹o thµnh s¸t th­¬ng %
+56	§é chİnh x¸c ®iÓm
+57	§é chİnh x¸c %
+58	Bá qua nĞ tr¸nh %
+59	"S¸t th­¬ng tõ … ®iÓm, ®Õn … ®iÓm"
+60	"B¨ng s¸t tõ … ®iÓm, ®Õn … ®iÓm"
+61	"Ho¶ s¸t tõ … ®iÓm, ®Õn … ®iÓm"
+62	"L«I s¸t tõ … ®iÓm, ®Õn … ®iÓm"
+63	"§éc s¸t tõ … ®iÓm, ®Õn … ®iÓm"
+64	S¸t th­¬ng ngò hµnh
+65	S¸t th­¬ng vËt lı %
+66	Hót sinh lùc %
+67	Hót néi l­c %
+68	Hót thÓ lùc %
+69	§Èy lïi ®èi ph­¬ng %
+70	TÊn c«ng chİ m¹ng %
+71	TÊn c«ng chİ tö %
+72	Lµm cho¸ng %
+85	Sinh lùc tèi ®a (®iÓm)
+86	Sinh lùc tèi ®a (%)
+87	Sinh lùc + … §iÓm
+88	Håi phôc sinh lùc mçi nöa gi©y … §iÓm
+89	Néi lùc tèi ®a (®iÓm)
+90	Néi lùc tèi ®a (%)
+91	Néi lùc + … §iÓm
+92	Håi phôc néi lùc mçi nöa gi©y … §iÓm
+93	ThÓ lùc tèi ®a (®iÓm)
+94	ThÓ lùc tèi ®a (%)
+95	ThÓ lùc + … §iÓm
+96	Håi phôc thÓ lùc mçi nöa gi©y … §iÓm
+97	Søc m¹nh … §iÓm
+98	Th©n ph¸p … §iÓm
+99	Sinh khİ … §iÓm
+100	Néi c«ng … §iÓm
+101	Kh¸ng ®éc %
+102	Kh¸ng ho¶ %
+103	Kh¸ng l«I %
+104	PTVL %
+105	Kh¸ng b¨ng %
+106	Thêi gian lµm chËm -%
+108	Thêi gian tróng ®éc -%
+109	§éc s¸t -…
+110	Thêi gian cho¸ng -%
+111	Tèc ®é di chuyÓn %
+112	Ph¹m vi s¸t th­¬ng %
+113	Thêi gian phôc håi -%
+114	Kh¸ng tÊt c¶ %
+115	Tèc ®é ®¸nh ngo¹i c«ng %
+116	Tèc ®é ®¸nh néi c«ng %
+117	Ph¶n ®ßn cËn chiÕn… ®iÓm
+118	Ph¶n ®ßn cËn chiÕn…%
+119	Ph¶n ®ßn tÇm xa …®iÓm
+120	Ph¶n ®ßn tÇm xa …%
+121	S¸t th­¬ng vËt lı ngo¹i c«ng …®iÓm
+122	Ho¶ s¸t ngo¹i c«ng …®iÓm
+123	B¨ng s¸t ngo¹i c«ng …®iÓm
+124	L«I s¸t ngo¹i c«ng …®iÓm
+125	§éc s¸t ngo¹i c«ng …®iÓm
+126	S¸t th­¬ng vËt lı ngo¹i c«ng …%
+127	Gi¶m tèc ®é xuÊt chiªu khİ c«ng
+128	Mª hoÆc ®èi ph­¬ng
+129	PTVL ...®iÓm
+130	Kh¸ng b¨ng …®iÓm
+131	Kh¸ng ho¶ …®iÓm
+132	Kh¸ng ®éc …®iÓm
+133	Kh¸ng l«i …®iÓm
+134	ChuyÓn ho¸ s¸t th­¬ng thµnh néi lùc %
+135	May m¾n …%
+136	Hót sinh lùc %
+137	Hót néi l­c %
+138	Hót thÓ lùc %
+167	TØ lÖ c«ng kİch chİnh x¸c %
+168	STVL néi c«ng …®iÓm
+169	B¨ng s¸t néi c«ng …®iÓm
+170	Ho¶ s¸t néi c«ng …®iÓm
+171	L«i s¸t néi c«ng …®iÓm
+172	§éc s¸t néi c«ng …®iÓm
